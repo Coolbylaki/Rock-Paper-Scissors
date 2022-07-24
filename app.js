@@ -53,3 +53,6 @@ function game() {
         return "It's a draw!";
     }
 }
+
+// Play the actual game and alert the result!
+alert(game());
